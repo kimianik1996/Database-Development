@@ -2,6 +2,7 @@
 This project focuses on building a transactional customer support database for an online ride-sharing and taxi platform, similar to Uber. The goal was to design a scalable and query-efficient system to support customer service operations.
 
 Username and pass for testuser account: 
+
     mongodb+srv://csistest:csistest@cluster0.adama.mongodb.net
 
 
