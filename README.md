@@ -20,6 +20,7 @@ Demonstrated functionality by running aggregation queries to test the structure 
 # File Overview
 
 File Name	Description:
+
 Database_Presentation.pptx	Visual presentation summarizing project goals and outcomes
 
 Aggregation Questions_DB2.docs	Set of queries to validate database functionality
