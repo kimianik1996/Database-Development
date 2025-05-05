@@ -3,7 +3,6 @@ This project focuses on building a transactional customer support database for a
 
 Username and pass for testuser account: 
 mongodb+srv://csistest:csistest@cluster0.adama.mongodb.net
-![image](https://github.com/user-attachments/assets/4e8c23cc-d953-4052-9a19-6461b19f8c6c)
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
